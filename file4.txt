@@ -1,1 +1,2 @@
 validating commit -a and -m options together
+adding another line
