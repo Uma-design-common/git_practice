@@ -1,0 +1,2 @@
+checking the merge conflict
+this line is from master branch
